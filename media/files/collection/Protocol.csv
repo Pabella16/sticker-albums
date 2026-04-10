@@ -1,0 +1,12 @@
+Attribute,Type,Description
+pid,id,Identificador único del álbum (Ej. A1)
+label,text,Nombre del álbum
+fecha_inicio,date,Año aproximado de inicio
+fecha_fin,date,Año aproximado de finalización
+contexto,text,"Etapa de vida asociada (colegio, infancia, universidad, etc.)"
+tipo_album,text,"Tipo de soporte (cuaderno, anillado, álbum comercial)"
+numero_paginas,numérico,Número total de páginas
+ancho,numérico,Ancho en centímetros
+alto,numérico,Alto en centímetros
+origen,texto,Forma de adquisición del álbum. (compra o regalo y lugar)
+descripcion,texto,Descripción corta del álbum

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Pabella16.github.io/sticker-albums/sitemap.xml
