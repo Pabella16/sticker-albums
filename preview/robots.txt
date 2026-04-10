@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:///C:\Users\16abe\OneDrive\Documentos\Publii\sites\sticker-albums\preview/sitemap.xml
