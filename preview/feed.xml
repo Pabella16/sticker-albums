@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sticker Albums</title>
+    <link href="file:///C:\Users\16abe\OneDrive\Documentos\Publii\sites\sticker-albums\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\16abe\OneDrive\Documentos\Publii\sites\sticker-albums\preview" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Pablo Abella</name>
+    </author>
+    <id>file:///C:\Users\16abe\OneDrive\Documentos\Publii\sites\sticker-albums\preview</id>
+
+</feed>
