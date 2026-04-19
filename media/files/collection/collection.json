@@ -114,7 +114,7 @@
     {
       "pid": "A2P1",
       "label": "Popurrí de entrada",
-      "album_id": "A2",
+      "album": "Grafiti Babakid",
       "descripcion": "Hoja de bienvenida a segundo álbum",
       "numero_stickers": 40,
       "formato": "Simple",
@@ -136,7 +136,7 @@
     {
       "pid": "A2P4",
       "label": "Círculos varios",
-      "album_id": "A2",
+      "album": "Grafiti Babakid",
       "descripcion": "Stickers de formas circulares",
       "numero_stickers": 49,
       "formato": "Simple",
@@ -158,7 +158,7 @@
     {
       "pid": "A2P6",
       "label": "Gatos con gatitos",
-      "album_id": "A2",
+      "album": "Grafiti Babakid",
       "descripcion": "Stickers de gatos. Mi prima pegó un montón de gatos chiquitos cuando era pequeña.",
       "numero_stickers": 31,
       "formato": "Simple",
@@ -180,7 +180,7 @@
     {
       "pid": "A1P3",
       "label": "La obra",
-      "album_id": "A1",
+      "album": "Tuxedo Sam",
       "descripcion": "Stickers de construcción. Los pegó una amiga cuando le presté el álbum sin seguir mi indicación de distribuirlos sin arguparlos por tema.",
       "numero_stickers": 38,
       "formato": "Doble",
@@ -202,7 +202,7 @@
     {
       "pid": "A1P4",
       "label": "Vencimiento seguro",
-      "album_id": "A1",
+      "album": "Tuxedo Sam",
       "descripcion": "Stickers varios, con presencia de superhéroes, escudos y comida",
       "numero_stickers": 67,
       "formato": "Doble",
@@ -224,7 +224,7 @@
     {
       "pid": "A1P5",
       "label": "Big Sur",
-      "album_id": "A1",
+      "album": "Tuxedo Sam",
       "descripcion": "Un gran sticker de Big Sur con stickers varios. Se destacan un par de tatuajes temporales.",
       "numero_stickers": 48,
       "formato": "Doble",
@@ -246,7 +246,7 @@
     {
       "pid": "A1P7",
       "label": "Faro",
-      "album_id": "A1",
+      "album": "Tuxedo Sam",
       "descripcion": "Pagina doble de stickers grandes. Sobresalen un faro, un IPhone y un logo de Arizona Tea.",
       "numero_stickers": 29,
       "formato": "Doble",
@@ -268,7 +268,7 @@
     {
       "pid": "A1P8",
       "label": "Tiburones",
-      "album_id": "A1",
+      "album": "Tuxedo Sam",
       "descripcion": "Monas y tiburones. Es apartente cierta dualidad cromática.",
       "numero_stickers": 40,
       "formato": "Doble",
@@ -290,7 +290,7 @@
     {
       "pid": "A3P1",
       "label": "Círculos RPM",
-      "album_id": "A3",
+      "album": "Mimibara",
       "descripcion": "Página de círculos con uno especialmente grande de RPM",
       "numero_stickers": 15,
       "formato": "Simple",
@@ -312,7 +312,7 @@
     {
       "pid": "A3P6",
       "label": "Pulpo y mar",
-      "album_id": "A3",
+      "album": "Mimibara",
       "descripcion": "Página con varias monas y algunos stickers con temática marina",
       "numero_stickers": 9,
       "formato": "Simple",
