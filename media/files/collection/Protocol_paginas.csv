@@ -1,7 +1,7 @@
 Attribute,Description,Type
 pid,"Identificador único de página (Ej. A1P1, A2P8, A3P4)",pid
 label,Nombre de la página (puede ser interpretativo),label
-album_id,ID del álbum al que pertenece,text
+album,ID del álbum al que pertenece,ref:Protocol
 descripcion,Descripción breve de la página,text
 numero_stickers,Cantidad total de stickers,text
 formato,"Tipo de página (simple, doble)",text

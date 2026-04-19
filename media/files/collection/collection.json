@@ -11,7 +11,7 @@
     "alto": "numérico",
     "origen": "texto",
     "descripcion": "text",
-    "album_id": "text",
+    "album": "ref:protocol",
     "numero_stickers": "text",
     "formato": "text",
     "tipos_sticker": "text",
