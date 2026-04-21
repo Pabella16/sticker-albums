@@ -117,7 +117,7 @@
     },
     {
       "pid": "A2P1",
-      "label": "Popurrí de entrada",
+      "label": "Personajes de caricatura: popurrí de entrada",
       "tipo_item": "Página",
       "album": "Grafiti Babakid",
       "descripcion": "Hoja de bienvenida a segundo álbum",
@@ -140,7 +140,7 @@
     },
     {
       "pid": "A2P4",
-      "label": "Círculos honguitos",
+      "label": "Círculos: honguitos",
       "tipo_item": "Página",
       "album": "Grafiti Babakid",
       "descripcion": "Stickers de formas circulares",
@@ -163,7 +163,7 @@
     },
     {
       "pid": "A2P6",
-      "label": "Gatos con gatitos",
+      "label": "Gatos: mini gatitos",
       "tipo_item": "Página",
       "album": "Grafiti Babakid",
       "descripcion": "Stickers de gatos. Mi prima pegó un montón de gatos chiquitos cuando era pequeña.",
@@ -186,7 +186,7 @@
     },
     {
       "pid": "A1P3",
-      "label": "La obra",
+      "label": "Construcción y maquinaria: la obra",
       "tipo_item": "Página",
       "album": "Tuxedo Sam",
       "descripcion": "Stickers de construcción. Los pegó una amiga cuando le presté el álbum sin seguir mi indicación de distribuirlos aleatoriamente, por lo que es de las pocas páginas que conservan la unidad estética y la lógica seriada y catalográfica del libro original.",
@@ -209,7 +209,7 @@
     },
     {
       "pid": "A1P4",
-      "label": "Vencimiento seguro",
+      "label": "Superhéroes y supervillanos: vencimiento seguro",
       "tipo_item": "Página",
       "album": "Tuxedo Sam",
       "descripcion": "Stickers varios, con presencia de superhéroes, escudos y comida",
@@ -278,7 +278,7 @@
     },
     {
       "pid": "A1P8",
-      "label": "Tiburones",
+      "label": "Azul y rojo: tiburones",
       "tipo_item": "Página",
       "album": "Tuxedo Sam",
       "descripcion": "Monas y tiburones. Es apartente cierta dualidad cromática.",
@@ -301,7 +301,7 @@
     },
     {
       "pid": "A3P1",
-      "label": "Círculos RPM",
+      "label": "Círculos: RPM",
       "tipo_item": "Página",
       "album": "Mimibara",
       "descripcion": "Página de círculos con uno especialmente grande de RPM",
@@ -324,7 +324,7 @@
     },
     {
       "pid": "A3P6",
-      "label": "Pulpo y mar",
+      "label": "Mundo marino: pulpo",
       "tipo_item": "Página",
       "album": "Mimibara",
       "descripcion": "Página con monas y stickers con temática marina",
