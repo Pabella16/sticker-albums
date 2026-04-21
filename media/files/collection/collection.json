@@ -11,7 +11,6 @@
     "ancho": "numérico",
     "alto": "numérico",
     "origen": "text",
-    "coordenadas": "text",
     "descripcion": "text",
     "album": "ref:protocol",
     "numero_stickers": "text",
@@ -41,7 +40,6 @@
       "tipo_papel": "Papel bond rayado",
       "numero_paginas": 102,
       "origen": "Regalo de Ana María Zea, recibido en la antigua casa de mi abuela, en la calle 85 con carrera 9 en Bogotá",
-      "coordenadas": "4.666639,-74.049833",
       "descripcion": "Mi primer álbum. Cuaderno escolar rayado marca norma, tapa blanda y estética de Tuxedo Sam de Sanrio.",
       "images": [
         "https://Pabella16.github.io/sticker-albums/media/files/collection/images/A1/A1.jpg",
@@ -68,7 +66,6 @@
       "tipo_papel": "Papel blanco satinado",
       "numero_paginas": 122,
       "origen": "Comprado en Panamericana de la carrera 15 con calle 72 en Bogotá",
-      "coordenadas": "4.659389,-74.061250",
       "descripcion": "Bitácora diseñada para dibujo con marcadores. Aparenta servir como papel de liberación sin serlo, pero tiene buen tamaño de hoja para stickers grandes y altas cantidades. Por Volcán Ediciones, portada diseñada por Babakid. El álbum (sus hojas y forma) ha sufrido por el volumen de stickers con relieve.",
       "images": [
         "https://Pabella16.github.io/sticker-albums/media/files/collection/images/A2/A002A.jpg",
@@ -105,7 +102,6 @@
       "tipo_papel": "Papel siliconado",
       "numero_paginas": 82,
       "origen": "Comprado en Miniso del parque de la 93 en Bogotá",
-      "coordenadas": "4.676694,-74.049000",
       "descripcion": "Cuaderno con temática de carpincho pensado para permitir pegar y despegar stickers. Portadas con efecto holográfico. Se siente algo pequeño, pero el material de las hojas es el sueño del colecionista.",
       "images": [
         "https://Pabella16.github.io/sticker-albums/media/files/collection/images/A3/A003A.jpg",

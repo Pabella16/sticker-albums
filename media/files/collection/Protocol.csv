@@ -10,5 +10,4 @@ numero_paginas,numérico,Número total de páginas
 ancho,numérico,Ancho en centímetros
 alto,numérico,Alto en centímetros
 origen,text,Contexto y lugar de adquisición del álbum. (compra o regalo y lugar)
-coordenadas,text,"Coordenadas de origen (latitud, longitud)"
 descripcion,text,Descripción corta del álbum
