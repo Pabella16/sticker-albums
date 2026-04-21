@@ -1,17 +1,18 @@
 Attribute,Description,Type
 pid,"Identificador único de página (Ej. A1P1, A2P8, A3P4)",pid
 label,Nombre de la página (puede ser interpretativo),label
-album,ID del álbum al que pertenece,ref:Protocol
+tipo_item,Tipo del item (Álbum o Página),text
+album,"Nombre del álbum al que pertenece, con una conexión al álbum",ref:Protocol
 descripcion,Descripción breve de la página,text
 numero_stickers,Cantidad total de stickers,text
 formato,"Tipo de página (simple, doble)",text
-tipos_sticker,"Tipos materiales (holográfico, mate, con relieve, fosforescente)",text
+tipo_material_sticker,"Tipos materiales presentes en la página (holográfico, mate, con relieve, fosforescente...)",text
 densidad,"Relación cantidad de stickers a espacio (5 muy alta, 4 alta, 3 media, 2 baja, 1 muy baja)",text
-paleta_dominante,Color predominante (máx. 3),text
+paleta_dominante,Colores predominantes (máx. 3),text
 saturacion,"Intensidad cromática (3 alta, 2 media, 1 baja)",text
 conexion_dominante,Tema o característica común principal,text
 homogeneidad,"Unidad aparente de la conexión (3 alta, 2 media, 1 baja)",text
 contiene_monas,¿Contiene monas de algún álbum coleccionable como Jet o Panini? (Sí o no),text
 contiene_IP,¿Contiene una propiedad intelectual reconocible? (Sí o no),text
-contiene_producto,"¿Contiene stickers de producto? Es decir, adhesivos que originalmente identifican un producto o anuncian una promoción, pero no se comercializan por sí solos (Sí o no)",text
+contiene_producto,"¿Contiene stickers de producto? Es decir, etiquetas adhesivas que originalmente identifican o promocionan un producto, pero no suelen comercializarse por sí solos (Sí o no)",text
 contiene_marca,¿Contiene stickers con un logo o nombre de marca? (No como copyright) (Sí o no),text
